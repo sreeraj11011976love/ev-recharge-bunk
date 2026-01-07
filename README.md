@@ -1,2 +1,2 @@
-# ev-recharge-bunk
-full stack web development - industry purpose
+# electric-vehicle-recharge-bunk
+full stack web development 
